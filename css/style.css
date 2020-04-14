@@ -1,0 +1,153 @@
+body {
+    width: 1440px;
+    height: 789px;
+    left: 52px;
+    top: 1164px;
+    
+    background: #FFFFFF;
+}
+
+nav {
+    position: absolute;
+    width: 1440px;
+    height: 86px;
+    left: 0px;
+    top: 0px;
+    background: #F9F9F9;
+}
+
+nav h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    color: #000000;
+    
+}
+
+section {
+    position: absolute;
+    width: 398px;
+    height: 612px;
+    left: 521px;
+    top: 126px;
+
+    border: 1px solid #DDDDDD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+section div {
+    position: absolute;
+    width: 286px;
+    height: 286px;
+    left: 56px;
+    top: 56px;
+
+    background: #DDDDDD;
+    border-radius: 8px;
+}
+section div img {
+    position: absolute;
+    width: 237px;
+    height: 114px;
+    left: 81px;
+    top: 142px;
+}
+section h1 {
+    position: absolute;
+    width: 286px;
+    height: 38px;
+    left: 56px;
+    top: 374px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 37px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+
+section h2 {
+    position: absolute;
+    width: 286px;
+    height: 28px;
+    left: 56px;
+    top: 428px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #000000;
+}
+
+section h4 {
+    position: absolute;
+    width: 286px;
+    height: 19px;
+    left: 56px;
+    top: 472px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+    text-decoration-line: underline;
+
+    color: #000000;
+
+}
+
+section h5 {
+    position: absolute;
+    width: 286px;
+    height: 19px;
+    left: 56px;
+    top: 507px;
+
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+
+}
+
+section h6 {
+    position: absolute;
+    width: 286px;
+    height: 14px;
+    left: 56px;
+    top: 542px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #888888;
+}
